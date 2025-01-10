@@ -28,3 +28,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 Contato
 Para mais informações, entre em contato com Raphael MSP.
+
+https://raphaelmsp.github.io/PORTALDENOTICIA-ROCKETSEAT/
+
+![PORTAL DE NOTICIAS](https://github.com/user-attachments/assets/f5b1803d-4a35-4a8c-ab16-9214cfb33c98)
