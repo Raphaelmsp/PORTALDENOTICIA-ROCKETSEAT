@@ -31,4 +31,5 @@ Para mais informações, entre em contato com Raphaelmsp.
 
 https://raphaelmsp.github.io/PORTALDENOTICIA-ROCKETSEAT/
 
-![PORTAL DE NOTICIAS](https://github.com/user-attachments/assets/f5b1803d-4a35-4a8c-ab16-9214cfb33c98)
+![PORTAL DE NOTICIAS](https://github.com/user-attachments/assets/f5b1803d-4a35-4a8c-ab16-9214cfb33c98)![PORTAL DE NOTICIAS SITE](https://github.com/user-attachments/assets/d64073b2-f557-4514-932a-1d97809ebf28)
+
